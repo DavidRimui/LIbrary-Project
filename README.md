@@ -36,8 +36,3 @@ This project utilizes the Framer Motion library to enhance the user experience w
 - **Profile:** The user profile page displaying personal information and library records.
 - **Non-Returned Books:** A page that lists books currently borrowed by the user and not yet returned.
 - **Issued Books:** A page displaying a user's history of issued books and their respective return status.
-
-### Technologies Used
-- **Frontend:** React.js, Bootstrap
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
